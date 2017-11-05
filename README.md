@@ -1,0 +1,2 @@
+# spammervbs
+Spammer in VBS
